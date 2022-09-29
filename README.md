@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @stephhhenn
-- 👀 I’m interested in eating
-- 🌱 I’m currently learning life
+- 👋 Hi, I’m Stephen.
+- 👀 I’m interested in iOS development.
+- 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on everywhere
-- 📫 How to reach me github
 
 <!---
 stephhhenn/stephhhenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
