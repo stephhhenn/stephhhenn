@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
 <h3 align="center">A student at Oxford Brookes University.</h3>
 
-- 🔭 I’m currently working on **an iOS app for my dissertation.**
+- 🔭 I’m currently working on **an iOS app.**
 
 <p align="left">
 </p>
